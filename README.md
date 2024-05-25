@@ -1,4 +1,4 @@
-# IS-022023
+# Practica 01: Manejo de git y github
 ***
 Descripción corta sobre el proyecto.
 ## Tabla de contenido
